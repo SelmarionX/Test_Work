@@ -1,1 +1,0 @@
-![diagram](C:\Users\Alexander\Desktop\diagram.jpg)
