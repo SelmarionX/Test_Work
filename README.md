@@ -13,5 +13,4 @@
 
 **Блок схема**
 
-
-<a href="https://ibb.co/4VhFMww"><img src="https://i.ibb.co/4VhFMww/diagram.jpg" alt="diagram" border="0"></a>
+<a href="https://ibb.co/4VhFMww"><img src="https://i.ibb.co/jrn8G99/diagram.jpg" alt="diagram" border="0"></a>
